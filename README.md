@@ -40,3 +40,11 @@ To deploy by direct link
   https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=[Numberofresultstoshow]&playlistId=[PlaylistIdhere]]&key=[YOUR_API_KEY]
 ```
 
+
+## Features
+
+- To Show video from PlayList
+- Live Fetching
+- Fullscreen mode
+- Updated API V3
+
